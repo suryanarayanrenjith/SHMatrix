@@ -12,8 +12,8 @@ SHMatrix is a simple, standalone `.sh` script that mimics the Matrix rain effect
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suryanarayanrenjith/shmatrix.git
-   cd shmatrix
+   git clone https://github.com/suryanarayanrenjith/SHMatrix.git
+   cd SHMatrix
    ```
 
 2. Make the script executable:
@@ -33,7 +33,7 @@ SHMatrix is a simple, standalone `.sh` script that mimics the Matrix rain effect
 
 ## Screenshot
 
-![Matrix Animation](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
+![Matrix Animation](/Screenshot.jpg)
 
 ## Disclaimer
 
