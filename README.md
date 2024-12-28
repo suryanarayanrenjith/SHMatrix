@@ -8,6 +8,10 @@ SHMatrix is a simple, standalone `.sh` script that mimics the Matrix rain effect
 - **Customizable**: Modify speed and character set easily.
 - **Fun**: Pretend you're a hacker or enjoy the Matrix vibe.
 
+## Screenshot
+
+![Matrix Animation](/Screenshot.jpg)
+
 ## Installation & Usage
 
 1. Clone the repository:
@@ -30,10 +34,6 @@ SHMatrix is a simple, standalone `.sh` script that mimics the Matrix rain effect
 
 - `SPEED`: Adjust the animation speed (default: `0.1`). Lower values make it faster.
 - `CHARSET`: Customize the characters used in the rain effect (default: `01`).
-
-## Screenshot
-
-![Matrix Animation](/Screenshot.jpg)
 
 ## Disclaimer
 
