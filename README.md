@@ -24,6 +24,10 @@ SHMatrix is a simple, standalone `.sh` script that mimics the Matrix rain effect
    ```bash
    chmod +x Matrix.sh
    ```
+   Alternatively, if this does not work for some reason, you can use:
+   ```bash
+   chmod 777 Matrix.sh
+   ```
 
 3. Run the script:
    ```bash
